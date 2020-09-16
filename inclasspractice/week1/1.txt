@@ -1,0 +1,15 @@
+FinTech Domains
+    Payments and Remittances
+    Robo Advisors and Personal Finance
+    RegTech
+    Digital Banking
+    InsurTech
+    Alternative Finance 
+
+    Payments and Remittances
+        This FinTech domain deals with how technology intersects with monetary movement. Technological advancements have made it so that no physical currency or currency placeholder is needed. Payments can be made and money can be transferred with the push of a button.
+        There are many companies in this space, but some of the more and recently notable big players are Paypal, Zelle, Venmo, Square, CashApp, Coinbase and more.
+        The main factors for change in this domain are security, competition and convenience. 
+
+What are the technologies used?
+What is its past, present, and future growth?
