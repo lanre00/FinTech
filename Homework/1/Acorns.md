@@ -35,9 +35,9 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* The biggest impact so far has been "Acorns Later", an easy automated way for their members to think long-term and save for retirement.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* The metrics Acorns' uses to determine success are the amount of active accounts and the amount of money under management with their firm.
 
 * Acorns' is holding it's own against it's competitors. They only have \$ 1 B under managements where competitors such as Betterment and Wealthfront have \$21 B and \$10 B under their belts respectively. However, Acorn's micro-investing approach and rapid growth has made made it a fan-favorite amongst members and their organizational investors alike. 
 
