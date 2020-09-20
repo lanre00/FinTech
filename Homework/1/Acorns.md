@@ -11,6 +11,7 @@
 * Since its founding, the company has raised approximately $100 million in venture capital funding. As of August 2019, notable investors in Acorns included Jennifer Lopez, Alex Rodriguez, Bono, Ashton Kutcher and Kevin Durant. PayPal, BlackRock, and NBCUniversal also have a stake in the company.<br/>
     In addition, since its launch, Acorns has charged a \$1 fee per month for its service. At this point, they offer tiered membership options for individuals and families with the monthly fee ranging up to \$5 per month.    
     <br/>
+
 ## Business Activities:
 * Acorns is in the investment management domain. 
 <br/>
@@ -21,6 +22,7 @@
 <br/>
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 <br/>
+
 ## Landscape:
 
 * Acorns is in the investment management domain. 
@@ -29,6 +31,7 @@
 <br/>
 * Robinhood, Betterment, Stash, Wealthfront, Sigfig and more.
 <br/>
+
 ## Results
 
 * What has been the business impact of this company so far?
@@ -37,6 +40,7 @@
 <br/>
 * Acorns' is holding it's own against it's competitors. They only have \$ 1 B under managements where competitors such as Betterment and Wealthfront have \$21 B and \$10 B under their belts respectively. However, Acorn's micro-investing approach and rapid growth has made made it a fan-favorite amongst members and their organizational investors alike. 
 <br/>
+
 ## Recommendations
 
 * As I personally have used Acorns in the past, I would recommend that they allow members invest in different portfolio options to diversify their risk and gains.
