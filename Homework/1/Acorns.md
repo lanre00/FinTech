@@ -1,4 +1,6 @@
+![Acorns Logo](Acorns.png)
 # Acorns Case-Study
+
 
 ## Overview and Origin
 
