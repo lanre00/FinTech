@@ -3,16 +3,14 @@
 ## Overview and Origin
 
 * Acorns
-<br/>
 * 2012
-<br/>
 * The company was launched in 2012 by father and son duo Walter Wemple Cruttenden III and Jeffrey James Cruttenden to promote incremental and passive investing.
-<br/>
-* Since its founding, the company has raised approximately $100 million in venture capital funding. As of August 2019, notable investors in Acorns included Jennifer Lopez, Alex Rodriguez, Bono, Ashton Kutcher and Kevin Durant. PayPal, BlackRock, and NBCUniversal also have a stake in the company.<br/>
+* Since its founding, the company has raised approximately $100 million in venture capital funding. As of August 2019, notable investors in Acorns included Jennifer Lopez, Alex Rodriguez, Bono, Ashton Kutcher and Kevin Durant. PayPal, BlackRock, and NBCUniversal also have a stake in the company.
     In addition, since its launch, Acorns has charged a \$1 fee per month for its service. At this point, they offer tiered membership options for individuals and families with the monthly fee ranging up to \$5 per month.    
     <br/>
 
 ## Business Activities:
+
 * Acorns is in the investment management domain. 
 <br/>
 * Acorns' goal is to enable users to invest early and often and with minimal effort.
@@ -26,9 +24,7 @@
 ## Landscape:
 
 * Acorns is in the investment management domain. 
-<br/>
 * In the past 5 - 10 years, we have seen the rise of investment management companies and banks that offer their customers the ability and education to easily invest their funds themselves simply using their app or websites. It has given rise to a more convenient method of investment that allows everyday people to solely build and maintain their own portfolios with access to realtime numbers.
-<br/>
 * Robinhood, Betterment, Stash, Wealthfront, Sigfig and more.
 <br/>
 
